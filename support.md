@@ -6,7 +6,7 @@ title: "Rack Attack Word Game: Support"
 # Rack Attack Word Game: Support
 
 Rack Attack is a crossword-style word game for iPhone and iPad. Play the computer at four levels, pass the
-device between two people, or play a friend over Game Center.
+device between two people. Playing a friend over Game Center is coming in a later version.
 
 ## Contact
 
@@ -44,11 +44,11 @@ The computer decides at once but shows its move after a pause so that the game f
 Leaving the app during the pause is safe.
 
 **How do I play a friend?**
-Choose "Play a Friend". Both of you need to be signed in to Game Center on your devices. Matches continue
+Coming in a later version. When it arrives: choose "Play a Friend". Both of you need to be signed in to Game Center on your devices. Matches continue
 whenever either of you opens the app; you do not both have to be playing at the same time.
 
 **My move did not seem to go through in a friend match.**
-Reopen the match. The app checks again, and resends the move if it can. If the match changed while you were
+(Friend matches are coming in a later version.) Reopen the match. The app checks again, and resends the move if it can. If the match changed while you were
 away, it says so and shows the match as it is now.
 
 **Can I turn the sounds and vibrations off?**
