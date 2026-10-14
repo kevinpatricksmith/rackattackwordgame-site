@@ -6,7 +6,7 @@ title: "Rack Attack Word Game: Support"
 # Rack Attack Word Game: Support
 
 Rack Attack is a crossword-style word game for iPhone and iPad. Play the computer at four levels, pass the
-device between two people. Playing a friend over Game Center is coming in a later version.
+device between two people on one device, or play a friend over Game Center.
 
 ## Contact
 
@@ -26,9 +26,8 @@ Press Play when the word is ready. Pinch to zoom the board and drag to move arou
 Everything can be done without dragging, and VoiceOver users have actions for selecting, placing and recalling.
 
 **What are "Assisted" and "Honor" word checking?**
-In Assisted games the app tells you whether your word is in the word list before you play, and refuses a play that
-is not. In Honor games the app does not tell you: you play, and if a word is not in the list the play is voided and
-the turn is lost. The choice is made when the game starts and cannot change during it.
+Assisted: invalid words are rejected before you play. Honor: an invalid word loses your turn, with no hint
+beforehand. The choice is made when the game starts and cannot change during it.
 
 **Which word list does it use?**
 ENABLE2K, a public-domain word list by Alan Beale and M. Cooper, plus a short list of additions. A word the app
@@ -44,23 +43,36 @@ The computer decides at once but shows its move after a pause so that the game f
 Leaving the app during the pause is safe.
 
 **How do I play a friend?**
-Coming in a later version. When it arrives: choose "Play a Friend". Both of you need to be signed in to Game Center on your devices. Matches continue
-whenever either of you opens the app; you do not both have to be playing at the same time.
+Choose "Play a Friend" on the home screen, then Start. Both of you need to be signed in to Game Center on your
+devices. Friend games are invite-only: you choose your friend in Game Center's own screen, and there is no matching
+with strangers. Who moves first is drawn at random. If it is you, your friend receives the invitation when you make
+your first move. Games continue whenever either of you opens the app; you do not both have to be playing at the same
+time, and Game Center sends a notification when it is your turn. Rack Attack does not ask for notification
+permission itself.
 
-**My move did not seem to go through in a friend match.**
-(Friend matches are coming in a later version.) Reopen the match. The app checks again, and resends the move if it can. If the match changed while you were
-away, it says so and shows the match as it is now.
+**Play a Friend says I need to sign in.**
+Open the Settings app, sign in to Game Center, then come back. If Game Center is restricted on your device, for
+example by Screen Time, Play a Friend is not available; Play vs Computer and Pass and Play still work.
+
+**My move did not seem to go through in a friend game.**
+Reopen the game. The app checks again, and resends the move if it can. If the game changed while you were
+away, it says so and shows the game as it is now.
+
+**Can I use two Game Center accounts to try it alone?**
+Play a Friend needs a second Game Center account signed in on another device.
 
 **Can I turn the sounds and vibrations off?**
 Sound effects have a switch under Settings (and in the menu inside a game). They also follow your iPhone's
 silent switch. Vibration follows your device's system haptics setting.
 
 **Where is my data, and how do I delete it?**
-On your device. See the [privacy policy](privacy). Delete a game from "In progress" on the home screen, or delete
-the app.
+On your device, and, for friend games, in Game Center. See the [privacy policy](privacy). Delete a Play vs Computer
+or Pass and Play game from "In progress" on the home screen (the app asks you to confirm), or delete the app. A
+friend game is left by resigning it inside the game; it is not deleted from the home screen, and it stays in your
+Game Center account.
 
 **Which devices does it run on?**
-iPhone and iPad with the supported version of iOS, and on Apple silicon Macs through "iPhone and iPad apps".
+iPhone and iPad with the supported version of iOS.
 
 ## Version
 
