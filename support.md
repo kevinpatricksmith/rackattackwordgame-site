@@ -5,8 +5,8 @@ title: "Rack Attack Word Game: Support"
 
 # Rack Attack Word Game: Support
 
-Rack Attack is a crossword-style word game for iPhone and iPad. Play the computer at four levels, pass the
-device between two people on one device, or play a friend over Game Center.
+Rack Attack is a crossword-style word game for iPhone and iPad. Play the computer at four levels, share one
+device between two people, or play a friend over Game Center.
 
 ## Contact
 
@@ -62,14 +62,15 @@ away, it says so and shows the game as it is now.
 Play a Friend needs a second Game Center account signed in on another device.
 
 **Can I turn the sounds and vibrations off?**
-Sound effects have a switch under Settings (and in the menu inside a game). They also follow your iPhone's
+Sound effects have a switch under Settings (and in the menu inside a game). They also follow your device's
 silent switch. Vibration follows your device's system haptics setting.
 
 **Where is my data, and how do I delete it?**
-On your device, and, for friend games, in Game Center. See the [privacy policy](privacy). Delete a Play vs Computer
-or Pass and Play game from "In progress" on the home screen (the app asks you to confirm), or delete the app. A
-friend game is left by resigning it inside the game; it is not deleted from the home screen, and it stays in your
-Game Center account.
+On your device, and, for friend games, in Game Center. See the [privacy policy](privacy). Delete any game from "In progress" on
+the home screen (the app asks you to confirm), or delete the app. Deleting a Play vs Computer or Pass and Play
+game removes it. Deleting a friend game you have already sent a move in resigns it: your friend wins, the result
+stays in your History, and the game is removed from your home screen. A friend game whose first move you have not
+sent yet is simply discarded. Resigning does not erase the match from your Game Center account.
 
 **Which devices does it run on?**
 iPhone and iPad with the supported version of iOS.
