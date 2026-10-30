@@ -5,7 +5,7 @@ title: "Rack Attack Word Game: Support"
 
 # Rack Attack Word Game: Support
 
-Rack Attack is a crossword-style word game for iPhone and iPad. Play the computer at four levels, share one
+Rack Attack is a crossword-style word game for iPhone and iPad. Play the computer at five levels, share one
 device between two people, or play a friend over Game Center.
 
 ## Contact
