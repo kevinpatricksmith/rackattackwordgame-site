@@ -38,6 +38,13 @@ After a turn of yours, Analyze shows your play next to the highest-scoring play 
 difference in points. It counts immediate points only: a lower-scoring play can be the better choice for your
 later turns.
 
+**Can I look up a word's definition, or see the short words?**
+In an Assisted game, open the menu and choose "Words on the
+board" to look up a word, or press and hold a word on the board. Definitions come from the dictionary built into iOS,
+on your device. Analyze, the final board and a finished game's detail offer the same lookup. In an Honor game,
+definitions wait until the game is over. The two- and three-letter word lists are on the home screen (the book button)
+and in the menu of an Assisted game, never in an Honor game.
+
 **Why does the computer wait before it moves?**
 The computer decides at once but shows its move after a pause so that the game feels like playing a person.
 Leaving the app during the pause is safe.

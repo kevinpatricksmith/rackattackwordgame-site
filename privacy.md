@@ -41,11 +41,13 @@ in your own Game Center account.
 - It does not use your location, contacts, camera, microphone or health data.
 - It makes no network connections of its own. The only network use is Apple's Game Center, for signing in and
   for friend games.
+- Word definitions come from the dictionary built into iOS, on your device. Apple's dictionary panel has its own
+  "Search Web" and "Manage" buttons; they act only if you tap them, and the app is not involved.
 
 ## Children
 
 The app has no accounts of its own, no chat, no purchases and no links that leave the app other than the policy and
-support pages. It collects nothing from anyone, including children.
+support pages (and, only if you tap it, Apple's dictionary panel's "Search Web" button). It collects nothing from anyone, including children.
 
 ## Deleting your data
 
