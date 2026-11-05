@@ -41,7 +41,9 @@ later turns.
 **Can I look up a word's definition, or see the short words?**
 In an Assisted game, open the menu and choose "Words on the
 board" to look up a word, or press and hold a word on the board. Definitions come from the dictionary built into iOS,
-on your device. Analyze, the final board and a finished game's detail offer the same lookup. In an Honor game,
+on your device. Analyze, the final board and a finished game's detail offer the same lookup. If that dictionary has
+no entry for a word, tap "Search the web" to look the word up in your browser with your default search engine; only
+the word is sent, and only when you tap. In an Honor game,
 definitions wait until the game is over. The two- and three-letter word lists are on the home screen (the book button)
 and in the menu of an Assisted game, never in an Honor game.
 

@@ -7,7 +7,7 @@ title: "Rack Attack Word Game: Privacy Policy"
 
 **Rack Attack Word Game** (the app)
 
-Last updated: October 13, 2026
+Last updated: November 3, 2026
 
 ## The short version
 
@@ -43,11 +43,15 @@ in your own Game Center account.
   for friend games.
 - Word definitions come from the dictionary built into iOS, on your device. Apple's dictionary panel has its own
   "Search Web" and "Manage" buttons; they act only if you tap them, and the app is not involved.
+- When the dictionary has no entry for a word, the app offers "Search the web". Only if you tap it, the app hands
+  that one word, and nothing else, to your browser, which searches for it with your default search engine; the
+  app itself sends nothing and collects nothing.
 
 ## Children
 
 The app has no accounts of its own, no chat, no purchases and no links that leave the app other than the policy and
-support pages (and, only if you tap it, Apple's dictionary panel's "Search Web" button). It collects nothing from anyone, including children.
+support pages (and, only if you tap them, Apple's dictionary panel's "Search Web" button and the app's "Search
+the web" button for a word with no definition). It collects nothing from anyone, including children.
 
 ## Deleting your data
 
