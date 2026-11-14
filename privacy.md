@@ -7,7 +7,7 @@ title: "Rack Attack Word Game: Privacy Policy"
 
 **Rack Attack Word Game** (the app)
 
-Last updated: November 3, 2026
+Last updated: November 13, 2026
 
 ## The short version
 
@@ -55,10 +55,16 @@ the web" button for a word with no definition). It collects nothing from anyone,
 
 ## Deleting your data
 
-Everything the app stores is on your device. Delete a game against the computer or a Pass and Play game from the
-"In progress" list on the home screen (the app asks you to confirm), or delete the app, and it is removed from your
-device. A friend game is left by resigning it in the game; its data is held by Game Center and managed through
-Game Center and your Apple account.
+Everything the app stores is on your device, so you can remove it yourself:
+
+- **Games against the computer, and Pass and Play games:** delete them from "In progress" on the home screen.
+  The app asks you to confirm.
+- **Friend games:** deleting one you have already made a move in resigns it. Your friend wins, the result stays
+  in your History, and the game leaves your home screen. If you have not sent a move yet, the game is simply
+  discarded. Friend games are held by Apple's Game Center, so resigning does not erase them from your Game
+  Center account. You manage that through Game Center and your Apple account.
+- **Everything at once:** delete the app. That removes your nickname, photo, settings, games, history and
+  statistics from your device.
 
 ## Changes
 
