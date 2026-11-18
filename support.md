@@ -80,6 +80,7 @@ the home screen (the app asks you to confirm), or delete the app. Deleting a Pla
 game removes it. Deleting a friend game you have already sent a move in resigns it: your friend wins, the result
 stays in your History, and the game is removed from your home screen. A friend game whose first move you have not
 sent yet is simply discarded. Resigning does not erase the match from your Game Center account.
+A replay (a practice game started from a turn of a finished game) is deleted from History, after a confirmation.
 
 **Which devices does it run on?**
 iPhone and iPad with the supported version of iOS.

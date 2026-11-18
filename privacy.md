@@ -59,6 +59,8 @@ Everything the app stores is on your device, so you can remove it yourself:
 
 - **Games against the computer, and Pass and Play games:** delete them from "In progress" on the home screen.
   The app asks you to confirm.
+- **Replays:** a replay is a practice game you started from a turn of a finished game. Delete it from History;
+  the app asks you to confirm. The finished game it came from is not affected.
 - **Friend games:** deleting one you have already made a move in resigns it. Your friend wins, the result stays
   in your History, and the game leaves your home screen. If you have not sent a move yet, the game is simply
   discarded. Friend games are held by Apple's Game Center, so resigning does not erase them from your Game
